@@ -1,5 +1,5 @@
-OOP:
-  Constructors
-DSA:
-  Merge sort
-  Recursive Bubble sort
+OOP:    
+  -Constructors  
+DSA:  
+  -Merge sort  
+  -Recursive Bubble sort  
